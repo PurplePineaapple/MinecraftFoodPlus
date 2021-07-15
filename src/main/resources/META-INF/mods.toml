@@ -4,18 +4,18 @@ loaderVersion="[36,)"
 
 license="MIT"
 
-issueTrackerURL="https://github.com/purplepineaapple/FoodCraft/issues"
+issueTrackerURL="https://github.com/purplepineaapple/MinecraftFoodPlus/issues"
 
 [[mods]]
 modId="mcfoodplus"
 
 version="${file.jarVersion}"
 
-displayName="MinecraftFoodPlus"
+displayName="Food+"
 
 #updateJSONURL="" # Change to update URL, when completed
 
-#logoFile="mcfoodplus.png" # Change to FoodCraft icon, when completed
+#logoFile="mcfoodplus.png" # Change to Food+ icon, when completed
 
 credits="Adishir#7310 (discord) for helping with texturing"
 
