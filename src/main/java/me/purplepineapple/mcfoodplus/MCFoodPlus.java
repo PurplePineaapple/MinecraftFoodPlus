@@ -11,7 +11,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 public class MCFoodPlus
 {
     // Mod ID
-    public static final String MOD_ID = "foodcraft";
+    public static final String MOD_ID = "mcfoodplus";
 
     public MCFoodPlus() {
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
