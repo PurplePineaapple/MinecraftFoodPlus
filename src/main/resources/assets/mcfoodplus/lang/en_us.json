@@ -4,5 +4,6 @@
   "item.mcfoodplus.cherries": "Cherries",
   "item.mcfoodplus.orange": "Orange",
   "item.mcfoodplus.pear": "Pear",
-  "item.mcfoodplus.strawberry": "Strawberry"
+  "item.mcfoodplus.strawberry": "Strawberry",
+  "itemGroup.food_plus": "FoodPlus"
 }
