@@ -11,18 +11,18 @@ modId="mcfoodplus"
 
 version="${file.jarVersion}"
 
-displayName="FoodCraft"
+displayName="MinecraftFoodPlus"
 
 #updateJSONURL="" # Change to update URL, when completed
 
-#logoFile="foodcraft.png" # Change to FoodCraft icon, when completed
+#logoFile="mcfoodplus.png" # Change to FoodCraft icon, when completed
 
 credits="Adishir#7310 (discord) for helping with texturing"
 
 authors="PurplePineapple"
 
 description='''
-A mod that adds fruit, food, and custom trees/bushes. More information on CurseForge page (URL HERE) and GitHub ( https://github.com/PurplePineaapple/FoodCraft )
+A mod that adds fruit, food, and custom trees/bushes. More information on CurseForge page (URL HERE) and GitHub ( https://github.com/PurplePineaapple/MinecraftFoodPlus )
 '''
 
 [[dependencies.mcfoodplus]]
