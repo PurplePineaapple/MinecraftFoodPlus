@@ -5,5 +5,9 @@
   "item.mcfoodplus.orange": "Orange",
   "item.mcfoodplus.pear": "Pear",
   "item.mcfoodplus.strawberry": "Strawberry",
+  "item.mcfoodplus.corn_seeds": "Corn Kernals",
+  "item.mcfoodplus.corn_stalk": "Corn Stalk",
+  "item.mcfoodplus.corn": "Corn on the Cob",
+  "item.mcfoodplus.catfish_spawn_egg": "Catfish Spawn Egg",
   "itemGroup.food_plus": "FoodPlus"
 }
