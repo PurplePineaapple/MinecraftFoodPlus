@@ -1,2 +1,2 @@
-# MinecraftFoodPlus
- MinecraftFood+ is a Forge mod that adds more food to Minecraft
+# FoodPlus
+ Food+ is a Forge mod that adds more food to Minecraft
