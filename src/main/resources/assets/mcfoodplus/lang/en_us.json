@@ -9,5 +9,14 @@
   "item.mcfoodplus.corn_stalk": "Corn Stalk",
   "item.mcfoodplus.corn": "Corn on the Cob",
   "item.mcfoodplus.catfish_spawn_egg": "Catfish Spawn Egg",
+  "item.mcfoodplus.catfish": "Raw Catfish",
+  "item.mcfoodplus.cooked_catfish": "Cooked Catfish",
+  "item.mcfoodplus.bass": "Bass",
+  "item.mcfoodplus.carp": "Carp",
+  "item.mcfoodplus.cooked_carp": "Carp",
+  "item.mcfoodplus.cooked_bass": "Cooked Bass",
+  "item.mcfoodplus.trout": "Trout",
+  "item.mcfoodplus.cooked_trout": " Cooked Trout",
+
   "itemGroup.food_plus": "FoodPlus"
 }
