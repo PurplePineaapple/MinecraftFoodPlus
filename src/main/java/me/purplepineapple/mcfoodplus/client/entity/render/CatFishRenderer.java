@@ -5,8 +5,6 @@ import me.purplepineapple.mcfoodplus.client.entity.model.CatFishModel;
 import me.purplepineapple.mcfoodplus.common.entities.CatFishEntity;
 import net.minecraft.client.renderer.entity.EntityRendererManager;
 import net.minecraft.client.renderer.entity.MobRenderer;
-import net.minecraft.client.renderer.entity.model.CodModel;
-import net.minecraft.entity.passive.fish.CodEntity;
 import net.minecraft.util.ResourceLocation;
 
 public class CatFishRenderer extends MobRenderer<CatFishEntity, CatFishModel<CatFishEntity>> {

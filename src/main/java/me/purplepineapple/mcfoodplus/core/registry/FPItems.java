@@ -7,7 +7,6 @@ import net.minecraft.fluid.Fluids;
 import net.minecraft.item.BlockNamedItem;
 import net.minecraft.item.FishBucketItem;
 import net.minecraft.item.Item;
-import net.minecraft.item.SpawnEggItem;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
