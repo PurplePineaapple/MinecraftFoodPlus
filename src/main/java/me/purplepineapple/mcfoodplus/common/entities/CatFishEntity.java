@@ -18,6 +18,8 @@ public class CatFishEntity extends AbstractFishEntity {
     protected ItemStack getBucketItemStack() {
         return new ItemStack(FPItems.CATFISH_BUCKET.get());
     }
+    
+    // SoundEvents | Update with custom, once complete
     protected SoundEvent getAmbientSound() {
         return SoundEvents.COD_AMBIENT;
     }
