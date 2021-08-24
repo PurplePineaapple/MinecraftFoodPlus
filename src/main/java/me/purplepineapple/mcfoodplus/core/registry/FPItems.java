@@ -4,6 +4,7 @@ import me.purplepineapple.mcfoodplus.FoodPlus;
 import me.purplepineapple.mcfoodplus.common.items.FPSpawnEggItem;
 import me.purplepineapple.mcfoodplus.core.itemgroup.FPItemGroup;
 import net.minecraft.fluid.Fluids;
+import net.minecraft.item.BlockItem;
 import net.minecraft.item.BlockNamedItem;
 import net.minecraft.item.FishBucketItem;
 import net.minecraft.item.Item;
@@ -17,7 +18,7 @@ public class FPItems {
     public static final RegistryObject<Item> BANANA = ITEMS.register( "banana", () ->
             new Item(new Item.Properties().tab(FPItemGroup.FOOD_PLUS).food(FPFoods.BANANA)));
     public static final RegistryObject<Item> BLUEBERRIES = ITEMS.register( "blueberries", () ->
-            new Item(new Item.Properties().tab(FPItemGroup.FOOD_PLUS).food(FPFoods.BLUEBERRIES)));
+            new BlockNamedItem(FPBlocks.BLUEBERRY_BUSH.get(), new Item.Properties().tab(FPItemGroup.FOOD_PLUS).food(FPFoods.BLUEBERRIES)));
     public static final RegistryObject<Item> CHERRIES = ITEMS.register( "cherries", () ->
             new Item(new Item.Properties().tab(FPItemGroup.FOOD_PLUS).food(FPFoods.CHERRIES)));
     public static final RegistryObject<Item> ORANGE = ITEMS.register( "orange", () ->
@@ -50,6 +51,8 @@ public class FPItems {
 
     public static final RegistryObject<Item> CORN_SEEDS = ITEMS.register("corn_seeds", () ->
             new BlockNamedItem(FPBlocks.CORN_STALK.get(), new Item.Properties().tab(FPItemGroup.FOOD_PLUS)));
+
+
 
 
 
