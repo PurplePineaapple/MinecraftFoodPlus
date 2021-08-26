@@ -43,6 +43,7 @@ public class FoodPlus
     public static void clientSetup(FMLClientSetupEvent event) {
         RenderTypeLookup.setRenderLayer(FPBlocks.CORN_STALK.get(), RenderType.cutout());
         RenderTypeLookup.setRenderLayer(FPBlocks.BLUEBERRY_BUSH.get(), RenderType.cutout());
+        RenderTypeLookup.setRenderLayer(FPBlocks.STRAWBERRY_BUSH.get(), RenderType.cutout());
 
         RenderingRegistry.registerEntityRenderingHandler(FPEntityTypes.CATFISH_ENTITY.get(), CatFishRenderer::new);
     }

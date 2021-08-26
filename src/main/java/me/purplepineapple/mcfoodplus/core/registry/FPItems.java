@@ -26,7 +26,7 @@ public class FPItems {
     public static final RegistryObject<Item> PEAR = ITEMS.register( "pear", () ->
             new Item(new Item.Properties().tab(FPItemGroup.FOOD_PLUS).food(FPFoods.PEAR)));
     public static final RegistryObject<Item> STRAWBERRY = ITEMS.register( "strawberry", () ->
-            new Item(new Item.Properties().tab(FPItemGroup.FOOD_PLUS).food(FPFoods.STRAWBERRY)));
+            new BlockNamedItem(FPBlocks.STRAWBERRY_BUSH.get(), new Item.Properties().tab(FPItemGroup.FOOD_PLUS).food(FPFoods.STRAWBERRY)));
     public static final RegistryObject<Item> CATFISH = ITEMS.register("catfish", () ->
             new Item(new Item.Properties().tab(FPItemGroup.FOOD_PLUS).food(FPFoods.CATFISH)));
     public static final RegistryObject<Item> BASS = ITEMS.register("bass", () ->
